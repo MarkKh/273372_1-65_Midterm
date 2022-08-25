@@ -14,4 +14,8 @@ module.exports = (app) => {
 
     app.post('/add1', Midterm.add1)
 
+    app.post('/func1', Midterm.func1)
+
+    app.post('/func2', Midterm.func2)
+
 }
