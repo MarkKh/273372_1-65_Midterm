@@ -1,5 +1,5 @@
 ﻿# 273372_1-65_Midterm
-# ผมเพิ่มฟังก์ชั่น func1 และ func2 ในไฟล์ midterm เป็นตัว API ที่อาจารย์กำหนด อาจารย์สามารถลองรัน ผ่าน postman โดย http://localhost:8081/func1 หรือ http://localhost:8081/func2 
+# ผมเพิ่มฟังก์ชั่น func1 และ func2 ในไฟล์ midterm เป็นตัว API ที่อาจารย์กำหนด อาจารย์สามารถลองรัน ผ่าน postman โดย http://localhost:8081/func1 หรือ http://localhost:8081/func2 โดยใช้ตัว post
 
 25 คะแนน (25%)
 1. (5 คะแนน) ให้พัฒนาโปแกรม CRUD โดยต่อยอดจาก GitHub repo ที่ผมขึ้นต้นไว้ให้ โดย ให้ทุกคน Fork โปรเจคของผม ที่นี่
